@@ -1,17 +1,23 @@
 # Terminal Log - Week 3
 
-## Commands Used
+## Commands Practiced
+- pwd
+- ls
+- cd
+- mkdir -p
+- touch
+- cp
+- mv
+- rm
+- find
+- grep
+- git init
+- git add
+- git commit
+- git branch
+- git merge
+- git pull
+- git push
 
-pwd  
-ls  
-cd ~/Desktop  
-mkdir iyf-s10-week-03-lucywachu77-dev  
-cd iyf-s10-week-03-lucywachu77-dev  
-mkdir -p src/css src/js src/images docs tests  
-touch README.md terminal-log.md  
-touch index.html home.html  
-ls  
-find . -name "*.html"  
-
-## Notes
-I practiced basic terminal navigation, file creation, and searching commands.
+## Summary
+I practiced terminal commands, Git workflow, branching, merging, and GitHub collaboration.
