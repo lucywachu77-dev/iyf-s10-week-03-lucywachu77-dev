@@ -1,4 +1,4 @@
-# Week 03: Command Line & Git Mastery
+# Week 03: Command Line & Git Workflow Project
 
 ## Author
 - **Name:** Lucy Wachu
@@ -8,29 +8,59 @@
 ---
 
 ## Project Description
-This project focuses on mastering terminal commands, Git version control, and GitHub workflows. It demonstrates creating and managing files using CLI, handling branches, resolving merge conflicts, and pushing projects to GitHub.
+This project demonstrates my understanding of command line tools, Git & GitHub workflow, branching, merging, and project structure management.
 
 ---
 
 ## Technologies Used
 - HTML5
 - CSS3
+- JavaScript (basic)
 - Git
 - GitHub
-- Bash (Git Bash)
+- Bash (Git Bash terminal)
 
 ---
 
 ## Features
-- Terminal-based file management
+- Terminal navigation and file management
 - Git version control (add, commit, push)
 - Branch creation and merging
 - Merge conflict resolution
-- Shell scripting (project setup script)
+- GitHub repository workflow
 
 ---
 
 ## How to Run
 1. Clone the repository:
-   ```bash
    git clone https://github.com/lucywachu77-dev/iyf-s10-week-03-lucywachu77-dev.git
+
+2. Open the project folder
+
+3. Open `index.html` in your browser
+
+---
+
+## Lessons Learned
+- How to use terminal commands effectively
+- How Git tracks changes
+- How to create and merge branches
+- How to resolve merge conflicts
+- How to push and pull from GitHub
+
+---
+
+## Challenges Faced
+- Merge conflicts during Git operations
+- GitHub push rejection due to remote updates
+- File structure organization
+
+---
+
+## Screenshot
+![Project Screenshot](./images/screenshot.png)
+
+---
+
+## Live Demo
+[View Repository](https://github.com/lucywachu77-dev/iyf-s10-week-03-lucywachu77-dev)
