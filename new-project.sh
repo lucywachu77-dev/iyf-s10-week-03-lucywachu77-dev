@@ -20,7 +20,6 @@ touch "$PROJECT_NAME"/src/index.html
 touch "$PROJECT_NAME"/src/css/styles.css
 touch "$PROJECT_NAME"/src/js/main.js
 
-# Add basic README content
 echo "# $PROJECT_NAME" > "$PROJECT_NAME"/README.md
 
 echo "Project '$PROJECT_NAME' created successfully!"
